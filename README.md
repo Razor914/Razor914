@@ -129,19 +129,11 @@ I'm also developing skills in **software quality assurance and test automation**
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Razor914&show_icons=true&theme=default" alt="Rafif's GitHub Stats"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 * 💻 **GitHub:** [github.com/Razor914](https://github.com/Razor914)
-* 💼 **LinkedIn:** *Coming soon*
-* 📧 **Email:** *Add your professional email here*
+* 💼 **LinkedIn:** www.linkedin.com/in/rafif-musyaffa-septiandra-tri-leksono-737574286
+* 📧 **Email:** rafifmusyaffastl@gmail.com
 
 ---
 
