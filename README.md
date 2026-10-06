@@ -83,30 +83,6 @@ An application designed to help teachers manage student grades, including daily 
 
 ---
 
-## 🧪 QA & Software Testing
-
-I'm also developing skills in **software quality assurance and test automation**.
-
-### Automation Testing Projects
-
-* **Selenium WebDriver**
-
-  * Web UI automation
-  * Swag Labs / SauceDemo
-  * XPath locator implementation
-  * Login → Inventory → Cart → Checkout flow
-  * Structured test cases
-
-* **Appium**
-
-  * Android mobile application automation
-  * MyDemoApp
-  * Element identification and interaction
-
-📌 More testing projects will be added as I continue developing my QA automation skills.
-
----
-
 ## 🎯 Areas of Interest
 
 * 📱 Android Application Development
