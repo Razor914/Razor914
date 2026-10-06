@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Rafif Musyaffa Septiandra Tri Leksono
 
-🎓 **Information Systems Graduate**
-💻 **Android Developer | Software Testing & QA Enthusiast**
-📍 Tangerang Selatan, Indonesia
-
 I'm an Information Systems graduate with an interest in **Android application development, software testing, and information systems**.
 
 I enjoy building applications that solve practical problems and exploring software quality through **manual and automated testing**.
