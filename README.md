@@ -17,13 +17,6 @@ I enjoy building applications that solve practical problems and exploring softwa
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Testing & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
-</p>
-
 ### Tools
 
 <p>
